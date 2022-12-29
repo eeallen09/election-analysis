@@ -3,7 +3,7 @@
 ## Overview of Election Audit
 
 #### Explain the purpose of this election audit analysis.
-The purpose of this election analysis audit is well defined. 
+The purpose of this election analysis audit is to provide the election committe with election results and voter turnout metrics.  
 
 ## Election Audit Results
 
