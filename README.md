@@ -30,10 +30,12 @@
 ### The Python script created for this audit can be used to automate anlyses for any election, to include other congressional districts, local elections, and even senatorial districts.  
 
 1) Modification 1 - File Loaded
-    ![Load_File](election-analysis/Load_File.png)
-2) Modification 2 - Standardization of Rows
-    ![Row](election-analysis/Row.png)
+    <img width="547" alt="Load_File" src="https://user-images.githubusercontent.com/118704152/210012858-9db5034a-e613-4627-97ce-2645d3b29341.png">
+    
+2) Modification 2 - Standardization of Rows  
+    <img width="450" alt="Row" src="https://user-images.githubusercontent.com/118704152/210012885-d6a5fb72-4912-4063-a522-4d46d6cd43d6.png">
+
 3) Modification 3 - Adjust occurences of "County" to appropriate jurisdiction 
-    ![County_Occurrences](election-analysis/County_Occurrences.png)
+    <img width="469" alt="County_Occurrences" src="https://user-images.githubusercontent.com/118704152/210012913-d4acdc6b-82ff-4ef6-aaba-f1ee19b5118e.png">
 
 Using this script for elections across Colorado would improve both the speed and accuracy of calculating election results.  The current process for calculating election results in Excel is more time consuming and prone to human error than running this Python script.  Through standardizing election analyses processes in Python, the election commission could provide faster and more accurate election results to Colorado voters.
