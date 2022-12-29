@@ -7,7 +7,6 @@ The purpose of this election analysis audit is well defined.
 
 ## Election Audit Results
 
-### Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 * **Total Votes Cast:** 369,711
 
 * **Votes by County (Highest to Lowest):**
