@@ -28,5 +28,10 @@ The purpose of this election analysis audit is to provide the election committe 
 
 ## Election Audit Summary
 
-### In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. 
+### The Python script created for this audit can be used to automate anlyses for any election, to include other congressional districts, local elections, and even senatorial districts.  
+
+1) Modification 1 - File Loaded
+2) Modification 2 - Standardization of Rows
+3) Modification 3 - Adjust occurences of "County" to appropriate jurisdiction 
+
+Using this script for elections across Colorado would improve both the speed and accuracy of calculating election results.  The current process for calculating election results in Excel is more time consuming and prone to human error than running this Python script.  Through standardizing election analyses processes in Python, the election commission could provide faster and more accurate election results to Colorado voters.
