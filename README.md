@@ -33,7 +33,7 @@
 
 #### The script can be modified to load the csv file with another districts' election data.
 
-    ![Load_File](Resources/Load_File.png)
+   ![Load_File](Resources/Load_File.png)
     
 2) Modification 2 - Organization of Data (Columns)  
 
