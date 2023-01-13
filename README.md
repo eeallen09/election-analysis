@@ -31,19 +31,19 @@
 
 1) Modification 1 - File Loaded
 
-### The script can be modified to load the csv file with another districts' election data.
+#### The script can be modified to load the csv file with another districts' election data.
 
     ![Load_File](Resources/Load_File.png)
     
 2) Modification 2 - Organization of Data (Columns)  
 
-### If other districts organize their data differently, the script can be modified to pull the candidate and county names from the appropriate columns.
+#### If other districts organize their data differently, the script can be modified to pull the candidate and county names from the appropriate columns.
 
    ![Row](Resources/Row.png)
 
 3) Modification 3 - Use of "County" in Script
 
-### References to "County" could be modified in the script to reflect the appropriate jurisdiction, such a "Town" for a local election.
+#### References to "County" could be modified in the script to reflect the appropriate jurisdiction, such a "Town" for a local election.
 
    ![County_Occurrences](Resources/County_Occurrences.png)
 
